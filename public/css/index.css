@@ -80,7 +80,7 @@
   background: red;
 }
 /* Завдання 19 */
-.btn-group:focus-within {
+.lesson-four-task-nineteen button:focus-within {
   color: white;
   background: yellow;
 }
